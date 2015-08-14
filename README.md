@@ -35,4 +35,6 @@
 
 ## Future topics
 
+* Tips for documenting Rails code.
+  * For instance, should I document my controller actions? What should I document in my models?
 * Tips for documenting JavaScript code.
