@@ -12,7 +12,7 @@
   * Document decisions that future people will want to know about.
   * Document data that obscure by its own nature (`DateTime` formatters, `Regexp`, ...)
 
-## Good practices.
+## Good practices
 
   * Do not hesitate to provide input/output examples.
     * Avoid generic values or values that don't belong to the business domain. 
@@ -25,7 +25,7 @@
   * Avoid to describe how something was implemented.
     * Plain comments are usually a hint that you should refactor a piece of code.
 
-## Documentation tips.
+## Documentation tips
   * Documenting constants.
   * Documenting object accessors.
   * How to come up with good title sentences.
