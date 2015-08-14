@@ -30,9 +30,9 @@
   * Documenting object accessors.
   * How to come up with good title sentences.
   * Documenting method purpose.
-* I have never written any word of documentation. Where should I start from?
+  * I have never written any word of documentation. Where should I start from?
     * In a Rails application, consider documenting your helpers at first.
 
 ## Future topics
 
-* On documenting JavaScript code.
+* Tips for documenting JavaScript code.
