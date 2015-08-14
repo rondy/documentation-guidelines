@@ -6,9 +6,9 @@
   * Document atypical code.
   * Document decisions that future people will want to know about.
   * Document data that obscure by its own nature (`DateTime` formatters, `Regexp`, ...)
-* Good practices
+* Good practices.
   * Do not hesitate to provide input/output examples.
-    * avoid generic values or values that does not belong to the business domain. 
+    * Avoid generic values or values that don't belong to the business domain. 
     * It will make people to gently get comfortable with the business domain.
     * People will end up getting a real sense of what your system is really about.
   * Stick to the patterns.
@@ -24,3 +24,7 @@
   * Documenting method purpose.
 * I have never written any word of documentation. Where should I start from?
     * In a Rails application, consider documenting your helpers at first.
+
+#### Future topics
+
+* On documenting JavaScript code.
